@@ -1,5 +1,5 @@
 # Lab7
-ITMO Programming Lab7
+Java Programming Lab7
 
 #### Task
 

@@ -1,5 +1,5 @@
 # ConsoleAppLab5
-ITMO programming, Laboratory work 5
+Java programming, Laboratory work 5
 
 #### Task
 

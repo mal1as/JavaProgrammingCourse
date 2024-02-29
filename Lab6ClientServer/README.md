@@ -1,5 +1,5 @@
 # Lab6ClientServer
-Laboratory work 6, ITMO Programming
+Laboratory work 6, Java Programming
 
 #### Task
 

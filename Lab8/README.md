@@ -1,5 +1,5 @@
 # Lab8
-ITMO programming, Lab work 8
+Java programming, Lab work 8
 
 #### Task
 
